@@ -9,7 +9,7 @@ display.style.maxWidth = displayCss.width;
 function getValue(value) {
   equation += value;
   document.getElementById("display-error-message").style.display = "none";
-  document.getElementById("display-value").innerHTML = "equation";
+  document.getElementById("display-value").innerHTML = equation;
 }
 
 function handleDelete() {
