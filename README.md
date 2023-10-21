@@ -24,6 +24,7 @@ $ git clone  https://meduardalima.github.io/calculadora-web/
 $ cd calculadora-web
 ```
 ## 📝 Licença
-Este projeto está sob a licença MIT. Consulte a [LICENÇA](https://github.com/meduardalima/calculadora-web/blob/main/LICENSE.md)
+
+Este projeto está sob a licença MIT. Consulte a [LICENÇA](https://github.com/meduardalima/calculadora-web/blob/main/LICENSE.md) para obter mais informações.
 ---
 by Maria Eduarda Lima 👐🏼
