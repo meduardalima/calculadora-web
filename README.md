@@ -3,6 +3,9 @@ Este projeto consiste numa calculadora web que possui funcionalidades básicas d
 
 ## 👀 Demo
 Para experimentar o projeto em ação, acesse a versão de demonstração [clicando aqui](https://meduardalima.github.io/calculadora-web/).
+<div style="display: flex; justify-content: center">
+<img src="https://github.com/meduardalima/calculadora-web/blob/main/assets/feac7106-55ad-40af-be61-eebf4b3f5f8d.jpeg" width="50%">
+</div>
 
 ## 🚀 Tecnologias
 Este projeto foi desenvolvido para portfólio com as seguintes tecnologias:
@@ -21,6 +24,6 @@ $ git clone  https://meduardalima.github.io/calculadora-web/
 $ cd calculadora-web
 ```
 ## 📝 Licença
-Este projeto está sob a licença MIT. Consulte a licença ) para obter mais informações.
+Este projeto está sob a licença MIT. Consulte a [LICENÇA](https://github.com/meduardalima/calculadora-web/blob/main/LICENSE.md)
 ---
 by Maria Eduarda Lima 👐🏼
